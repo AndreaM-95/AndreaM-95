@@ -14,3 +14,4 @@ This game over UI that I designed made me discover how beautiful this is and how
 - 💬 Ask me about Unity, CSS, Html, Bootstrap
 - 📫 How to reach me: [Linkedin<br>](https://www.linkedin.com/in/yuri-andrea-mej%C3%ADa-ram%C3%ADrez-34b88517a/)
 - ⚡ Fun fact: I love writing, stories for video games inspire me
+- 🎮 My gaming profile [Itch<br>](https://andreamejia.itch.io/)
