@@ -5,7 +5,7 @@
 ### Hola a todos! 👋
 <p align="justify">Soy desarrolladora web y me destaco en el rol de Front End logrando un arte visual llamativo y diverso; referente a los videojuegos me apasiona el diseño de niveles, la interfáz de usuario y la programación de mecánicas; redactar la narrativa de un juego me inspira logrando crear historias mágicas que generan mayores expectativas por el videojuego. La interfaz de usuario que diseñé en el juego "Mystical World" me hizo descubrir lo hermoso que es esto y cuánto quiero seguir aprendiendo y evolucionando.🥰</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/104279565/216462391-37cc200e-7562-4ed5-9d5c-32aa3d15f4fd.png" width=400> <img src="https://user-images.githubusercontent.com/104279565/216462482-2c639f69-f6d7-4319-a6c6-64c74e4f97e6.png" width=400></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/104279565/216462391-37cc200e-7562-4ed5-9d5c-32aa3d15f4fd.png" width=300> <img src="https://user-images.githubusercontent.com/104279565/216462482-2c639f69-f6d7-4319-a6c6-64c74e4f97e6.png" width=300></p>
 
 
 
