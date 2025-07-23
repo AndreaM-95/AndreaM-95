@@ -13,7 +13,8 @@
 🎮 Mi perfil de usuario para videojuegos [Itch<br>](https://andreamejia.itch.io/)
 
 ## 🌐 Redes sociales:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/andrea_mejia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-mejia95/) ![Website](https://img.shields.io/website?url=https://portafolio-andrea-mejia.vercel.app/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/andrea_mejia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-mejia95/) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fportafolio-andrea-mejia.vercel.app)](https://portafolio-andrea-mejia.vercel.app)
+
 <br>
 
 ## 💻 Habilidades:
