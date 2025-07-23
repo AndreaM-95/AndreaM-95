@@ -3,22 +3,17 @@
 </p>
 
 # 👋 Hola a todos!
-<p align="justify">Soy una desarrolladora apasionada por crear experiencias interactivas envolventes y visualmente atractivas. Cuento con formación técnica en Análisis y Desarrollo de Software (SENA) y certificación en metodología Scrum, lo que me permite abordar los proyectos con una visión estructurada y colaborativa.
-
-Mi perfil combina el desarrollo de videojuegos con el diseño de interfaces intuitivas. He egresado de programas como Desarrolladora Full Stack (Talento Tech / UTP), Desarrolladora Junior en Unity (Generation) y Desarrollo de Software (Cymetria), donde fortalecí mis habilidades en motores como Unity (C#), así como en herramientas web modernas como React, Tailwind y Bootstrap. 
-
-Mi objetivo es seguir creciendo como desarrolladora, combinando creatividad y precisión técnica en cada proyecto, ya sea en el ámbito web o en el desarrollo de videojuegos.🥰</p>
+<p align="justify">Tecnóloga en Análisis y Desarrollo de Software con certificación en Scrum, especializada en el desarrollo de aplicaciones web modernas y videojuegos en Unity. Mi enfoque combina una visión artística, pensamiento lógico y experiencia en UI/UX para crear productos funcionales, visualmente atractivos y centrados en el usuario. He participado en múltiples proyectos 2D y 3D tanto para web como para plataformas móviles, aplicando metodologías ágiles, pruebas de calidad y diseño accesible.🥰</p>
 
 ## 💫 Sobre Mi:
-🔭 Actualmente estoy trabajando en el desarrollo del videojuego "Night Fall"<br>
-🌱 Estoy aprendiendo sobre  Unity y desarrollo frontend<br>
+🌱 Estoy aprendiendo sobre QA<br>
 👯 Busco colaborar en proyectos de desarrollo web o videojuegos<br>
-💬 Preguntame sobre Unity, maquetación o UX-UI.<br>
-⚡ Dato curioso: Me encanta leer y el senderismo<br>
+💬 Preguntame sobre Unity, maquetación en desarrollo web o UX-UI.<br>
+⚡ Dato curioso: Me encanta leer y correr<br>
 🎮 Mi perfil de usuario para videojuegos [Itch<br>](https://andreamejia.itch.io/)
 
 ## 🌐 Redes sociales:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/andrea_mejia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-mejia95/) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fandreamejia95.github.io%2F)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/andrea_mejia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-mejia95/) ![Website](https://portafolio-andrea-mejia.vercel.app/)
 <br>
 
 ## 💻 Habilidades:
